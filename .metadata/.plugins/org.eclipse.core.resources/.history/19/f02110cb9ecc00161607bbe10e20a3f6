@@ -1,0 +1,10 @@
+package chatApp;
+
+import java.util.Scanner;
+
+public class User {
+	public void send(){
+		Scanner scanner = new Scanner(System.in);
+		string fuck = scanner.nextLine();
+	}
+}
