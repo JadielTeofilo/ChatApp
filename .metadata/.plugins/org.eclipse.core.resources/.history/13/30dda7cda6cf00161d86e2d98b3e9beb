@@ -7,7 +7,6 @@ public class User {
 		System.out.println("ababa");
 		Scanner scanner = new Scanner(System.in);
 		String fuck = scanner.nextLine();
-		scanner.close();
 		System.out.println(fuck);
 	}
 	
